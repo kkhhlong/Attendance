@@ -1,0 +1,23 @@
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\bin\Debug\DiemDanh1.exe.config
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.Properties.Resources.resources
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.csproj.GenerateResource.Cache
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\bin\Debug\DiemDanh1.exe
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\bin\Debug\DiemDanh1.pdb
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.exe
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.pdb
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.csproj.ResolveComReference.cache
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.fSinhVien.resources
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.fBuoiHoc.resources
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.fDiemDanh.resources
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.fThongTinLop.resources
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.fThongTinSinhVien.resources
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.csprojResolveAssemblyReference.cache
+D:\Project DiemDanh\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.fClass.resources
+E:\MyProject\DiemDanh1\DiemDanh1\bin\Debug\DiemDanh1.exe.config
+E:\MyProject\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.csproj.ResolveComReference.cache
+E:\MyProject\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.exe
+E:\MyProject\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.pdb
+E:\MyProject\Windows\DiemDanh1\DiemDanh1\bin\Debug\DiemDanh1.exe.config
+E:\MyProject\Windows\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.csproj.ResolveComReference.cache
+E:\MyProject\Windows\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.exe
+E:\MyProject\Windows\DiemDanh1\DiemDanh1\obj\Debug\DiemDanh1.pdb
